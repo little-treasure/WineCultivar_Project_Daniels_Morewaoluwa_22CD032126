@@ -1,0 +1,6 @@
+Name: Kolawole Ayomikun Barnabas
+Matriculation Number: 22CD032156
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method: Joblib
+Live URL: (after deployment)
+GitHub Repository Link: (paste here)
