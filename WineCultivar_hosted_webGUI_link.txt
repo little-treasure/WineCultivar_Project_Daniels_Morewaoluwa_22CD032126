@@ -1,6 +1,6 @@
-Name: Kolawole Ayomikun Barnabas
-Matriculation Number: 22CD032156
+Name: Daniels Morewaoluwa Treasure
+Matriculation Number: 22CD032126
 Machine Learning Algorithm Used: Random Forest Classifier
 Model Persistence Method: Joblib
-Live URL: https://wine-cultivar-prediction-0td7.onrender.com
-GitHub Repository Link: https://github.com/Dayomikun1/WineCultivar_Project_Kolawole-Ayomikun_22CD032156
+Live URL: 
+GitHub Repository Link: 
